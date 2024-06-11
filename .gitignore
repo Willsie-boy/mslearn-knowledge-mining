@@ -1,2 +1,7 @@
 bin
 obj
+Labfiles/01-azure-search/UploadDocs.cmd
+Labfiles/07-exercise-add-to-index-use-push-api lab-files/OptimizeDataIndexing/obj/Debug/net7.0/OptimizeDataIndexing.AssemblyInfo.cs
+Labfiles/07-exercise-add-to-index-use-push-api lab-files/OptimizeDataIndexing/obj/Debug/net7.0/OptimizeDataIndexing.AssemblyInfoInputs.cache
+Labfiles/07-exercise-add-to-index-use-push-api lab-files/OptimizeDataIndexing/obj/Debug/net7.0/OptimizeDataIndexing.csproj.AssemblyReference.cache
+Labfiles/07-exercise-add-to-index-use-push-api lab-files/OptimizeDataIndexing/obj/Debug/net7.0/OptimizeDataIndexing.GeneratedMSBuildEditorConfig.editorconfig
